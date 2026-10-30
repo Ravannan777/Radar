@@ -1,5 +1,7 @@
 # ESP32 RADAR SCANNER
 
+[ESP32 Setup](images/esp32-setup(1).jpg)
+
 A passive Wi-Fi access-point and BLE-advertisement scanner for an ESP32-WROOM-32 / ESP32 DevKit V1. The ESP32 serves an offline dashboard with a canvas radar and a small procedural globe. The only project files needed are this guide and [`ESP32_RADAR_SCANNER.ino`](ESP32_RADAR_SCANNER.ino).
 
 ## Hardware
@@ -74,7 +76,7 @@ At runtime, device records and JSON output buffers are statically bounded (about
 ## Project Gallery
 
 ### Hardware Setup & Connections
-![ESP32 Setup](images/esp32-setup(1).jpg)
+
 ![ESP32 Setup](images/esp32-setup(2).jpg)
 
 ### Red Cyberpunk Radar Interface
