@@ -9,7 +9,11 @@ A passive Wi-Fi access-point and BLE-advertisement scanner for an ESP32-WROOM-32
 - ESP32 DevKit V1 using an ESP32-WROOM-32 module with 4 MB flash.
 - USB data cable.
 - No display, sensors, SD card, or extra wiring is required.
-
+- 2 NRF24l01+pa+lna+ wirless module
+- 3.7v bsttary
+- switch
+- charging model
+- Led
 The firmware is receive-only for discovery: it does not connect to found Wi-Fi access points or BLE devices, request BLE scan responses, inject packets, or capture credentials.
 
 ## Libraries
